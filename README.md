@@ -1,7 +1,13 @@
 # Desktop_Deck
 
+##👀Overview
+
 ## 📦 Setup
-### 📦 Setup
 ```bash
 cp .env-example .env
 ```
+##🚀 Features
+
+##📜 Documentation
+
+##License
