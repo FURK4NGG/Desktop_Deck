@@ -28,7 +28,7 @@ http://Digistump.com/package_digistump_index.json
 
 
 ## 📜 Documentation  
-` GPL-3.0 license`
+`GPL-3.0 license`
 
 
 ## 🔒 License  
