@@ -20,8 +20,6 @@ http://Digistump.com/package_digistump_index.json
 8. `Plug the ESP8266 into your computer`  
 9. `Tools>Port>'Select the esp8266's port'`  
 
-<p align="right">🔗 <strong>Blog:</strong> <a href="https://my-blog.example.com">my-blog.example.com</a></p>
-
 
 ## 🎉 Run  
 `Click the 'upload ➡️' button`  
