@@ -1,6 +1,4 @@
-# Desktop_Deck
-
-## 👀 Overview
+## 👀 Desktop_Deck Overview
 
 ## 🚀 Features
 
