@@ -1,3 +1,5 @@
+<!-- Proje-Resmi -->
+
 ## 👀 Desktop_Deck Overview  
 <h1 align="center">A lightweight Shortcut Manager</h1>  
 
