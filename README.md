@@ -10,8 +10,9 @@
 ```bash
 http://Digistump.com/package_digistump_index.json
 ```
->Click OK
+-Click OK
 ## 2
+
 
 ## 🎉 Run  
 
