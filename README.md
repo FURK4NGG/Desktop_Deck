@@ -1,7 +1,8 @@
 ## 👀 Desktop_Deck Overview  
-
+A lightweight Shortcut Manager
 
 ## 🚀 Features  
+<h1 align="center">The design aims to provide quick access to your desired application and enables operations such as taking screenshots/videos or locking the screen.</h1>  
 
 
 ## 📦 Setup 
