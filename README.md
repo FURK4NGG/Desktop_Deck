@@ -1,9 +1,10 @@
 ## 👀 Desktop_Deck Overview  
 
+
 ## 🚀 Features  
 
+
 ## 📦 Setup 
-## 1
 1. `Install and open Arduino IDE`
 2. `Open the 'dektop_deck.ino'`
 3. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
@@ -18,13 +19,14 @@ http://Digistump.com/package_digistump_index.json
 7. `Plug the ESP8266 into your computer`  
 8. `Tools>Port>'Select the esp8266 port'`  
 
-
-
 <p align="right">🔗 <strong>Blog:</strong> <a href="https://my-blog.example.com">my-blog.example.com</a></p>
 
 
 ## 🎉 Run  
+`Click the 'upload ➡️' button`
 
 ## 📜 Documentation  
 
+
 ## 🔒 License  
+
