@@ -3,6 +3,8 @@
 ## 🚀 Features
 
 ## 📦 Setup
+>Install and open Arduino IDE
+>File->
 ```bash
 cp .env-example .env
 ```
