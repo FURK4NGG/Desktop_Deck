@@ -12,7 +12,15 @@ http://Digistump.com/package_digistump_index.json
 ```
 -Click OK
 ## 2
+<details>
+<summary>Kurulum adımları</summary>
 
+1. `npm install`
+2. `npm run build`
+
+<p align="right">🔗 <strong>Blog:</strong> <a href="https://my-blog.example.com">my-blog.example.com</a></p>
+
+</details>
 
 ## 🎉 Run  
 
