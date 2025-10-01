@@ -24,7 +24,8 @@ http://Digistump.com/package_digistump_index.json
 
 ## 🎉 Run  
 `Click the 'upload ➡️' button`
-✅ **Warning:** 'To make sure it has been uploaded successfully, you should see the message 'Done uploading'`
+✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**
+
 
 ## 📜 Documentation  
 
