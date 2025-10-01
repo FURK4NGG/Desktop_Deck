@@ -2,11 +2,14 @@
 
 ## 👀 Overview
 
+## 🚀 Features
+
 ## 📦 Setup
 ```bash
 cp .env-example .env
-```
-## 🚀 Features
+``
+
+## 🎉 Run
 
 ## 📜 Documentation
 
