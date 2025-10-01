@@ -10,17 +10,13 @@
 ```bash
 http://Digistump.com/package_digistump_index.json
 ```
-3.`Click OK`
-## 2
-<details>
-<summary>Kurulum adımları</summary>
+3.`Click 'OK'`
+4.`Tools>Board>Boards Manager...`
+5.`search 'esp8266' and install it`
 
-1. `npm install`
-2. `npm run build`
 
 <p align="right">🔗 <strong>Blog:</strong> <a href="https://my-blog.example.com">my-blog.example.com</a></p>
 
-</details>
 
 ## 🎉 Run  
 
