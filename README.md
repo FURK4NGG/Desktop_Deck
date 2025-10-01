@@ -13,4 +13,4 @@ cp .env-example .env
 
 ## 📜 Documentation
 
-## 🔒License
+## 🔒 License
