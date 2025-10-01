@@ -2,16 +2,12 @@
 
 ## 🚀 Features
 
-## 📦 Setup
-
-- Handles region definitions.
-- Includes coordinate-based matching logic.
-- Located under `/modules/area/`.
-- 
->Install and open Arduino IDE
->File->
+## 📦 Setup 
+-Install and open Arduino IDE
+-File>Preferences>Additional Boards Manager URLs:(Clik the double window button)
+>Paste this code
 ```bash
-cp .env-example .env
+http://Digistump.com/package_digistump_index.json
 ```
 
 ## 🎉 Run
