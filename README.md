@@ -30,8 +30,5 @@ http://Digistump.com/package_digistump_index.json
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 
-## 📜 Documentation  
-
-
 ## 🔒 License  
 <h1 align="center">📜 GPL-3.0 License</h1>  
