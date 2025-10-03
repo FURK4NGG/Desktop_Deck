@@ -12,8 +12,8 @@
 1. `Refer to the circuit diagram`  
 2. `Install and open Arduino IDE`  
 3. `Open the 'desktop_deck.ino'`  
-4. `Plug the 'Arduino Uno' into your computer`  
-5. `Select 'Tools>Board>Arduino AVR Boards>Arduino Uno'`
+4. `Plug the 'Arduino Leonardo' into your computer`  
+5. `Select 'Tools>Board>Arduino AVR Boards>Arduino Leonardo'`
 6. `Tools>Port>'Select the arduino's port'`
 7. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
