@@ -9,25 +9,19 @@
 
 
 ## 📦 Setup 
-1. `Refer to the circuit diagram`
-2. `Install and open Arduino IDE`
-3. `Open the 'dektop_deck.ino'`
-4. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
->Paste this code  
-```bash
-http://Digistump.com/package_digistump_index.json
-```
-5. `Click 'OK'`  
-6. `Tools>Board>Boards Manager...`  
-7. `Search 'esp8266' and install it` 
-> ⚠️ **Warning:** Make sure you have installed the correct USB driver (CH340 or CP2102) before connecting the ESP8266 to your computer.
-8. `Plug the ESP8266 into your computer`  
-9. `Tools>Port>'Select the esp8266's port'`  
+1. `Refer to the circuit diagram`  
+2. `Install and open Arduino IDE`  
+3. `Open the 'desktop_deck.ino'`  
+4. `Plug the 'Arduino Uno' into your computer`  
+5. `Select 'Tools>Board>Arduino AVR Boards>Arduino Uno'`
+6. `Tools>Port>'Select the arduino's port'`
+7. `Click the 'upload ➡️' button`  
+✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
+
 
 
 ## 🎉 Run  
-`Click the 'upload ➡️' button`  
-✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
+`You are ready to use`
 
 
 ## 🔒 License  
