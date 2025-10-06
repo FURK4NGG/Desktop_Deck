@@ -21,7 +21,7 @@
 
 
 ## 🎉 Run  
-`You are ready to use desktop_deck in your windows system`
+`You are ready to use desktop_deck in your system`
 
 
 ## 🔒 License  
