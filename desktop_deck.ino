@@ -6,7 +6,7 @@
 #define role_d 6
 int role = 7;
 int roleK = 0;
-int i = 0;
+int i,a = 0;
 int buton_durumu;
 int veri;
 
@@ -109,3 +109,31 @@ void wifi(){
     Mouse.release(MOUSE_LEFT);
     Keyboard.releaseAll();
     delay(2000);}
+
+//LINUX
+
+void linux_kapat(){
+  Keyboard.press(KEY_LEFT_CTRL);
+  Keyboard.press('x');
+  delay(100);
+  Keyboard.releaseAll();
+  delay(1000);
+  Keyboard.print("sudo shutdown now");
+  Keyboard.press(KEY_RETURN);
+  Keyboard.releaseAll();}
+
+void linux_printscreen(){
+  a=!a;
+  if(a==1){
+    Keyboard.press(KEY_LEFT_CTRL);
+    Keyboard.press(KEY_LEFT_SHIFT);
+    Keyboard.press(KEY_PRINT_SCREEN);
+    delay(100);
+    Keyboard.releaseAll();}
+  else{
+    Keyboard.press(KEY_LEFT_CTRL);
+    Keyboard.press(KEY_LEFT_SHIFT);
+    Keyboard.press(KEY_PAUSE);
+    delay(100);
+    Keyboard.releaseAll();}
+  }
