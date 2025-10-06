@@ -10,7 +10,7 @@
 
 ## 📦 Setup 
 1. `Refer to the circuit diagram`
-2. `Install the 'Arduino IDE' software and open 'desktop_deck.ino' file`  
+2. `Install the 'Arduino IDE' software and open 'desktop_deck.ino' file`
 3. `Plug the 'Arduino Leonardo' into your computer`  
 4. `Select 'Tools>Board>Arduino AVR Boards>Arduino Leonardo'`
 5. `Tools>Port>'Select the arduino's port'`
