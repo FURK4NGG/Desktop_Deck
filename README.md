@@ -14,13 +14,14 @@
 3. `Plug the 'Arduino Leonardo' into your computer`  
 4. `Select 'Tools>Board>Arduino AVR Boards>Arduino Leonardo'`
 5. `Tools>Port>'Select the arduino's port'`
-6. `Click the 'upload ➡️' button`  
+6. `Tools>Manage Libraries...>Install the libraries used in the code`
+7. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 
 
 ## 🎉 Run  
-`You are ready to use`
+`You are ready to use desktop_deck in your windows system`
 
 
 ## 🔒 License  
