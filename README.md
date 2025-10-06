@@ -9,13 +9,12 @@
 
 
 ## 📦 Setup 
-1. `Refer to the circuit diagram`  
-2. `Install and open Arduino IDE`  
-3. `Open the 'desktop_deck.ino'`  
-4. `Plug the 'Arduino Leonardo' into your computer`  
-5. `Select 'Tools>Board>Arduino AVR Boards>Arduino Leonardo'`
-6. `Tools>Port>'Select the arduino's port'`
-7. `Click the 'upload ➡️' button`  
+1. `Refer to the circuit diagram`
+2. `Install the 'Arduino IDE' software and open 'desktop_deck.ino' file`  
+3. `Plug the 'Arduino Leonardo' into your computer`  
+4. `Select 'Tools>Board>Arduino AVR Boards>Arduino Leonardo'`
+5. `Tools>Port>'Select the arduino's port'`
+6. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**  
 
 
