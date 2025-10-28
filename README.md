@@ -8,6 +8,14 @@
 <h1 align="center">The design aims to provide quick access to your desired application and enables operations such as taking screenshots/videos or locking the screen.</h1>  
 
 
+## 🔎 Preparation
+<details>
+<summary>1. Components</summary>
+'1' Arduino Leonardo<br>
+'3' Button
+</details>
+
+
 ## 📦 Setup 
 1. `Refer to the circuit diagram`
 2. `Install the 'Arduino IDE' software and open 'desktop_deck.ino' file`
