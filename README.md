@@ -1,4 +1,5 @@
 <!-- Proje-Resmi -->
+<!-- Bunun features yazisina led kontrolu de ekle -->
 
 ## 👀 Desktop_Deck Overview  
 <h1 align="center">A lightweight Shortcut Manager</h1>  
