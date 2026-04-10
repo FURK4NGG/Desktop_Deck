@@ -31,10 +31,10 @@ void loop() {
     Serial.println(veri);//Seri haberleşmeden gelen veriyi okuyoruz.
   }
    delay(500);
-  if (buton_durumu > 900 && buton_durumu < 1030){
+  if (buton_durumu > 800 && buton_durumu <= 1023){
     printscreen();
   }
-  else if(buton_durumu > 500 && buton_durumu < 600){
+  else if(buton_durumu > 400 && buton_durumu <= 800){
     kapat();
     }
 }
