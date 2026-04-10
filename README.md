@@ -14,7 +14,9 @@
 <details>
 <summary>1. Components</summary>
 '1' Arduino Leonardo<br>
-'3' Button
+'3' Button<br>
+'1' 330 ohm resistor<br>
+'2' 220 ohm resistor
 </details>
 
 
