@@ -19,7 +19,8 @@ void setup() {
 void loop() {
   int buton_durumu = analogRead(Buton);
   int roled = digitalRead(role_d);
-  Serial.println(buton_durumu);  
+  Serial.println("A1 Buton: "+String(buton_durumu));
+  Serial.println("D6 Buton: "+String(roled));
   if (roled==1){
     int roleK = !i;
     i=!i;
@@ -127,13 +128,13 @@ void linux_printscreen(){
   if(a==1){
     Keyboard.press(KEY_LEFT_CTRL);
     Keyboard.press(KEY_LEFT_SHIFT);
-    Keyboard.press(KEY_PRINT_SCREEN);
+    Keyboard.press(0xCE);
     delay(100);
     Keyboard.releaseAll();}
   else{
     Keyboard.press(KEY_LEFT_CTRL);
     Keyboard.press(KEY_LEFT_SHIFT);
-    Keyboard.press(KEY_PAUSE);
+    Keyboard.press(0xD0);
     delay(100);
     Keyboard.releaseAll();}
   }
