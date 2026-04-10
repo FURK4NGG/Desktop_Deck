@@ -19,8 +19,8 @@ void setup() {
 void loop() {
   int buton_durumu = analogRead(Buton);
   int roled = digitalRead(role_d);
-  Serial.println("A1 Buton: "+String(buton_durumu));
-  Serial.println("D6 Buton: "+String(roled));
+  //Serial.println("A1 Buton: "+String(buton_durumu));
+  //Serial.println("D6 Buton: "+String(roled));
   if (roled==1){
     int roleK = !i;
     i=!i;
