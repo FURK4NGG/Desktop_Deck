@@ -13,7 +13,8 @@
 '1' Arduino Leonardo<br>
 '3' Button<br>
 '1' 330 ohm resistor<br>
-'2' 220 ohm resistor
+'2' 220 ohm resistor<br>
+'1' 5V Relay
 </details>
 
 
