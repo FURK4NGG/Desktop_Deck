@@ -1,7 +1,7 @@
 ## 👀 Desktop_Deck Overview  
 <h1 align="center">A lightweight Shortcut Manager</h1>  
 
-![Image](https://github.com/FURK4NGG/Desktop_Deck/blob/main/{}/desktop-deck-1.webp)
+![Desktop_Deck Demo Image](https://github.com/FURK4NGG/Desktop_Deck/blob/main/{}/desktop-deck-1.webp)
 
 ## 🚀 Features  
 <h1 align="center">The design aims to provide quick access to your desired application and enables operations such as taking screenshots/videos or locking the screen.It also allows you to control external devices, such as lighting systems, through a relay module.</h1>  
